@@ -1,0 +1,4 @@
+# Career Venture Lab - Team 23 (NUR-4 / AP Statistics) Dependencies
+streamlit>=1.38.0
+pandas>=2.2.0
+numpy>=1.26.0
